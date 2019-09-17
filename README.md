@@ -1,6 +1,6 @@
 Going through CS109 - Data Science from Harvard From September till NOW.
 
-my solution may not be correct. Check out the original repo, or the directory `official_solutions`.
+my solution may not be correct. Check them out in `my_solutions` directory.
  
  
 Below is the README from Offical Website.
