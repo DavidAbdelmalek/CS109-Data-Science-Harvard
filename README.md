@@ -2,7 +2,6 @@
 -----------------------------------------------------
 
 # 2015
-=======
 *[Official Course Page](http://cs109.org)*
 
 ## Lectures
@@ -19,7 +18,7 @@ The Lecture slides up to Lecture 1 are in this repository. Just click on the Lec
 * [Homework 5](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/HW5.ipynb): Networks and Congress ([solutions](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/HW5_solutions.ipynb))
 
 ## Labs
-
+* [Lab 2: Web Scrapping](https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Johanna.ipynb)
 * [Lab 3: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
 * [Lab 4: Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
 * [Lab 5: Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
